@@ -37,7 +37,16 @@ Ahora en lugar de únicamente por la consola también se va a mostrar la puntuac
 <img width="1918" height="976" alt="Ejer6" src="https://github.com/user-attachments/assets/18e18767-31f9-469d-8379-69cd48fdaaa9" />
 
 ## Ejercicio 7
+
 Se comprueba la puntuación acumulada del jugador y cada 100 puntos se obtiene una recompensa que se muestra en la interfaz mediante TextMeshPro. La puntuación y las recompensas también se registran en la consola.
 A continuación se muestra su ejecución:<img width="1912" height="1034" alt="Ejer7" src="https://github.com/user-attachments/assets/3157f440-f527-49f7-8c79-3367ac83b498" />
 
+## Ejercicio 8
 
+Se ha generado a una escena incluyendo columnas y muros que se ajustan a la escena del prototipo y sirven como obstáculos del juego. Se puede observar aquí:
+<img width="1914" height="1058" alt="Ejer8" src="https://github.com/user-attachments/assets/3f63826f-531f-4f22-833b-34ec1e671269" />
+
+## Ejercicio 9
+
+Este ejercicio es el mismo que el ejercicio 3 ya que en este el cubo tiene que ser físico.
+<img width="1912" height="930" alt="Ejer3" src="https://github.com/user-attachments/assets/5e4c875f-7fe3-4108-9874-3930fe4c1178" />
